@@ -2,20 +2,17 @@
 
 1. Introduction
 
-- This project aims to perform a comprehensive analysis of Adidas sales in the United States. Utilising data-driven insights, the project seeks to understand sales trends, customer preferences, and regional performance. The analysis is encapsulated in a Jupyter notebook titled Adidas_sales_Analysis.ipynb, which explores various facets of the sales data, ranging from exploratory data analysis to predictive modelling.
+- This project aims to perform a comprehensive analysis of Adidas sales in the United States. Utilising data-driven insights, the project seeks to understand sales trends, customer preferences, and regional performance.
+- The analysis is encapsulated in a Jupyter notebook titled Adidas_sales_Analysis.ipynb, which explores various facets of the sales data, ranging from exploratory data analysis to predictive modelling.
 
 2. Dataset Description
 The dataset, Adidas_US_Sales_Datasets.csv, comprises 9648 entries spanning several key metrics:
 
 1. Retailer Information: Includes retailer name and a unique retailer ID.
-2. 
-3. Sale Details: Contains the invoice date, product type (e.g., Men's Street Footwear), units sold, and total sales value.
-4. 
-5. Financial Metrics: Provides data on price per unit, operating profit, and operating margin.
-6. 
-7. Geographical Information: Covers the region, state, and city of each sale.
-8. 
-9. Sales Method: Indicates whether the sale was in-store or another method.
+2. Sale Details: Contains the invoice date, product type (e.g., Men's Street Footwear), units sold, and total sales value.
+3. Financial Metrics: Provides data on price per unit, operating profit, and operating margin.
+4. Geographical Information: Covers the region, state, and city of each sale.
+5. Sales Method: Indicates whether the sale was in-store or another method.
 
 
 3. Analysis Overview
@@ -28,7 +25,7 @@ The Jupyter notebook conducts a meticulous analysis in several stages:
 3. Sales Trend Analysis: Examination of sales over time to identify seasonal trends and other temporal patterns.
 
 4. Predictive Modelling: Implementation of forecasting models like ARIMA to predict future sales trends.
-5. 
+
 
 4. Results and Conclusions
 The analysis yields valuable insights into Adidas' sales dynamics in the US market. Key findings include:
